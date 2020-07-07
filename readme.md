@@ -2,7 +2,7 @@
 
 ### Hex values for the original NES Color Palette, stored as CSS Custom Properties.  
 
-Omitted are the nine extra instances of #000000 that are on the actual NES palette.  
+Omitted are the nine extra instances of `#000000` that are on the actual NES palette.  
 
 Hex value source: [Almighty Guru](http://www.thealmightyguru.com/Games/Hacking/Wiki/index.php/NES_Palette)  
 
